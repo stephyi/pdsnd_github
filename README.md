@@ -3,7 +3,6 @@
 ### Date created
 *Created on : Tuesday,December 07 2021*
 
-### Project Title
 ##U.S BIKESHARE PROJECT
 
 ### Description
@@ -11,7 +10,7 @@ Used data provided by Motivate, a bike share system provider for many major citi
 
 
 
-### Files used
+
 You will need the three city dataset files too:
 >chicago.csv
 >new_york_city.csv
