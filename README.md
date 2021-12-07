@@ -11,7 +11,7 @@ Used data provided by Motivate, a bike share system provider for many major citi
 
 
 
-You will need the three city dataset files too:
+*You will need the three city dataset files too:*
 >chicago.csv
 >new_york_city.csv
 >washington.csv
